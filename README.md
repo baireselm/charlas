@@ -28,4 +28,4 @@ Gracias!
 
 # Código de Conducta
 Tambien "tomamos prestado" el codigo de conduta que elaboro la gente de [BANodeJS](https://github.com/banodejs)
-
+Podes leerlo acá: [Código de Conducta](https://github.com/baireselm/charlas/blob/master/CONDUCT.md)
