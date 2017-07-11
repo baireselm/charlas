@@ -9,7 +9,7 @@ Espacio para proponer las charlas a darse en los meetups de Elm
 - Te recomendamos leer [la excelente guia](https://github.com/meetupjs-ar/guias) que hizo [keyserfaty](https://github.com/keyserfaty) para [MeetupJS](https://github.com/meetupjs-ar). 
 
 # Quién puede dar una charla
-La respuesta es simple: todos! El propósito de este meetup es hacer crecer la comunidad de Elm en argentina. Si te interesa el lenguaje, no es necesario ser un experto/a haber estado trabajando con Elm en producción. Por supuesto que si lo hiciste nos interesa mucho conocer tu experiencia o la de tu empresa, pero también nos interesa conocer la experiencia de la gente que se está acercando al lenguaje, cuáles fueron tus primeras impresiones, etc. Si hiciste algo con Elm y tenes ganas de compartir tu experiencia, este es tu lugar. Preparar una charla es una excelente forma de ordenar los conceptos que fuiste aprendiendo mientras hacías cosas con el lenguaje.
+La respuesta es simple: todos! El propósito de este meetup es hacer crecer la comunidad de Elm en argentina. Si te interesa el lenguaje, no es necesario ser un experto/a o haber estado trabajando con Elm en producción. Por supuesto que si lo hiciste nos interesa mucho conocer tu experiencia o la de tu empresa, pero también nos interesa conocer la experiencia de la gente que se está acercando al lenguaje, cuáles fueron tus primeras impresiones, etc. Si hiciste algo con Elm y tenes ganas de compartir tu experiencia, este es tu lugar. Preparar una charla es una excelente forma de ordenar los conceptos que fuiste aprendiendo mientras hacías cosas con el lenguaje.
 
 # Cómo proponer una charla
 Es fácil. Abrí un issue para proponer una charla.
